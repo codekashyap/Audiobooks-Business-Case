@@ -9,4 +9,5 @@ Here, we have a .csv summarizing the data. There are several variables: Customer
   1.2 Divide the dataset in training, validation and testing data.
   1.3 Save the data in a tensor friendly format (.npz)
   
-2. Create the machine algorithm  
+2. Create the machine learning algorithm, which is able to predict if a customer will buy again. 
+   This is a classification problem with two classes: won't buy and will buy, represented by 0s and 1s.
